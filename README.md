@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá a todos! Eu sou o  Gustavo Henrique Fiamoncini.
 
-<!--
-**Gustavo-HF/Gustavo-HF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou cursando desenvolvimento de sistemas pelo SENAI;
+- 🎮 Estudo programação direcionada ao desenvolvimento de jogos;
+- 💻 Atualmente estudo a linguagem Java;
+- 🎓 Formado no Ensino Médio pela escola Osvaldo Cruz;
+- 📍  Moro em Rodeio | SC – Brasil 🇧🇷;
+- 📫 Contato: gustavohf092006@gmail.com;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href= "https://github.com/Gustavo-HF">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-HF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-HF&layout=compact&langs_count=16&theme=dark"/>
+</a>
+</div>
