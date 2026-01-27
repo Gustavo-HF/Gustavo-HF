@@ -1,8 +1,7 @@
 ## Olá a todos! Eu sou o  Gustavo Henrique Fiamoncini.
 
 - 🌱 Atualmente estou cursando desenvolvimento de sistemas pelo SENAI;
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc1c0f6d-d567-4765-97a2-be58a605e90a" />
- Estudo programação direcionada ao desenvolvimento de sistemas;
+- 🖥  Estudo programação direcionada ao desenvolvimento de sistemas;
 - 💻 Atualmente estudo a linguagem Java;
 - 🎓 Formado no Ensino Médio pela escola Osvaldo Cruz;
 - 📍  Moro em Rodeio | SC – Brasil 🇧🇷;
