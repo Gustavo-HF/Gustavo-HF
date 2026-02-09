@@ -7,8 +7,3 @@
 - 📍  Moro em Rodeio | SC – Brasil 🇧🇷;
 - 📫 Contato: gustavohf092006@gmail.com;
 
-<div>
-<a href= "https://github.com/Gustavo-HF">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-HF&layout=compact&langs_count=16&theme=dark"/>
-</a>
-</div>
